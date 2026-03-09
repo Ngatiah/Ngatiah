@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ivy Wamuyu Ngatia
 
-### Explainable AI Engineer & Full-Stack Developer
+### Aspiring Explainable AI Engineer | Machine Learning & Full-Stack Developer
 
 Building **transparent Machine Learning systems** and **scalable web applications**.
 Currently specializing in **Computer Vision** and **Transformer models**.
@@ -14,6 +14,7 @@ Currently specializing in **Computer Vision** and **Transformer models**.
 
 * 📂 **Projects:** See featured work below
 * 📄 **Resume:** [Download Resume](https://github.com/Ngatiah/resume.git)
+* 📜 **Kaggle Certifications (10+):** [View Certificates](https://drive.google.com/drive/folders/1rWwjPnDZzTycxissJ-XGXSuwi-aDYVkk?usp=drive_link)
 * 📫 **Contact:** [ngatiahivy@gmail.com](mailto:ngatiahivy@gmail.com)
 
 ---
@@ -39,9 +40,9 @@ Built a **three-tiered SBERT matching system** that ranks resumes and **explains
 
 **Links**
 
-* 🔗 Live Demo
-* 💻 GitHub Repo
-* 🤗 Model on Hugging Face
+* 🔗 [Live Demo](https://resumejd-75ykods9j2snaxgh5jss88.streamlit.app/)
+* 💻 [GitHub Repo](https://github.com/Ngatiah/resume_JD.git)
+* 🤗 Model on Hugging Face : https://www.google.com/search?q=https://huggingface.co/iwamu/bert-data-analyst-matcher
 
 ---
 
@@ -63,8 +64,7 @@ Built a **secure food redistribution platform** connecting businesses with chari
 
 **Links**
 
-* 💻 GitHub Repository
-* 🏗 System Architecture
+* 💻 [GitHub Repository](https://github.com/Ngatiah/Donation-System.git)
 
 ---
 
@@ -80,8 +80,7 @@ Used **feature engineering + XGBoost** to achieve strong performance while maint
 
 **Links**
 
-* 📓 Kaggle Notebook
-* 📊 Analysis
+* [📓 Github Repo](https://github.com/Ngatiah/Titanic-Survival-Prediction.git)
 
 ---
 
@@ -98,7 +97,8 @@ Tools
 
 Proof
 
-* 10+ Kaggle Certifications
+ * 📂 [View Kaggle 10+ Certificates](https://drive.google.com/drive/folders/1rWwjPnDZzTycxissJ-XGXSuwi-aDYVkk?usp=drive_link)
+
 
 ---
 
@@ -112,7 +112,8 @@ Tools
 
 Proof
 
-* Advanced SQL Kaggle Certification
+*  📂 [View Kaggle 10+ Certificates](https://drive.google.com/drive/folders/1rWwjPnDZzTycxissJ-XGXSuwi-aDYVkk?usp=drive_link)
+
 
 ---
 
@@ -127,7 +128,7 @@ Tools
 
 Proof
 
-* FoodBridge Project Repository
+* [FoodBridge Project Repository](https://github.com/Ngatiah/Donation-System.git)
 
 ---
 
@@ -140,7 +141,7 @@ Tools
 
 Proof
 
-* `iwamu/bert-data-analyst-matcher`
+* `https://www.google.com/search?q=https://huggingface.co/iwamu/bert-data-analyst-matcher`
 
 ---
 
