@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ivy Wamuyu Ngatia
 
-### Computer Science @ Moi University | AI & Data Science Researcher
+### Software Engineer & AI Enthusiast | Transforming Data into Insights
 
 Building **transparent Machine Learning systems** and **scalable web applications**.  
 Currently specializing in **Computer Vision** and **Transformer models**.
