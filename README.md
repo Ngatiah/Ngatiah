@@ -161,13 +161,11 @@ My goal is to **integrate visual data into existing ML systems** to build more r
 # 📫 Contact
 
 📧 Email: **[ngatiahivy@gmail.com](mailto:ngatiahivy@gmail.com)**
+
 📍 Location: **Nairobi, Kenya**
-💼 LinkedIn: *(add link)*
 
 ---
 
 ⭐ If you find my work interesting, feel free to explore my repositories!
 
 ---
-
-If you want, I can also show you **3 ways to make your GitHub portfolio look 10× more impressive than most developers' profiles** (badges, animated stats, and project cards).
