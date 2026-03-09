@@ -5,11 +5,7 @@
 Building **transparent Machine Learning systems** and **scalable web applications**.  
 Currently specializing in **Computer Vision** and **Transformer models**.
 
-📍 Nairobi, Kenya 
-
-📧 [ngatiahivy@gmail.com](mailto:ngatiahivy@gmail.com) 
-
-💼 [LinkedIn](https://www.linkedin.com/in/ivie-ngatiah-58a53a26b)
+📍 Nairobi, Kenya | 📧 [ngatiahivy@gmail.com](mailto:ngatiahivy@gmail.com) | 💼 [LinkedIn](https://www.linkedin.com/in/ivie-ngatiah-58a53a26b)
 
 ---
 
