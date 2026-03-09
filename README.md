@@ -19,7 +19,7 @@ Currently specializing in **Computer Vision** and **Transformer models**.
 
 ## 🔥 Featured Projects
 
-### 🧠 [Explainable AI (XAI) Resume Matcher](https://resumejd-75ykods9j2snaxgh5jss88.streamlit.app/)
+### 🧠 [Explainable AI (XAI) Resume Job Matcher](https://resumejd-75ykods9j2snaxgh5jss88.streamlit.app/)
 **Problem:** Most AI hiring tools act as "black boxes," leaving recruiters unsure why a candidate was recommended.  
 **Solution:** Built a **three-tiered SBERT matching system** that ranks resumes and provides transparency through automated skill-gap analysis.
 
