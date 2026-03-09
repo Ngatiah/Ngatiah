@@ -1,16 +1,171 @@
-## Hi there 👋
+# 👋 Hi, I'm Ivy Wamuyu Ngatia
 
-<!--
-**Ngatiah/Ngatiah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Explainable AI Engineer & Full-Stack Developer
 
-Here are some ideas to get you started:
+Building **transparent Machine Learning systems** and **scalable web applications**.
+Currently specializing in **Computer Vision** and **Transformer models**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📍 Nairobi, Kenya
+📧 [ngatiahivy@gmail.com](mailto:ngatiahivy@gmail.com)
+
+---
+
+## 🚀 Quick Links
+
+* 📂 **Projects:** See featured work below
+* 📄 **Resume:** [Download Resume](https://github.com/Ngatiah/resume.git)
+* 📫 **Contact:** [ngatiahivy@gmail.com](mailto:ngatiahivy@gmail.com)
+
+---
+
+# 🔥 Featured Projects
+
+## 🧠 Explainable AI (XAI) Resume Matcher
+
+**Problem**
+
+Most AI hiring tools act as **black boxes**, leaving recruiters unsure why a candidate was recommended.
+
+**Solution**
+
+Built a **three-tiered SBERT matching system** that ranks resumes and **explains the decision** through **skill matches and skill gaps**.
+
+**Tech Stack**
+
+* SBERT (Hugging Face)
+* PyTorch
+* Scikit-learn
+* Streamlit
+
+**Links**
+
+* 🔗 Live Demo
+* 💻 GitHub Repo
+* 🤗 Model on Hugging Face
+
+---
+
+## 🍎 FoodBridge (Collaborative Project)
+
+**Problem**
+
+Urban areas waste large amounts of food due to inefficient redistribution.
+
+**Solution**
+
+Built a **secure food redistribution platform** connecting businesses with charities.
+
+**Technical Highlights**
+
+* Implemented **Django Knox token authentication**
+* Built a **React + Tailwind UI**
+* Designed a **decoupled backend architecture**
+
+**Links**
+
+* 💻 GitHub Repository
+* 🏗 System Architecture
+
+---
+
+## 📊 Titanic Survival Prediction
+
+**Goal**
+
+Master classification techniques through the classic Kaggle dataset.
+
+**Key Achievement**
+
+Used **feature engineering + XGBoost** to achieve strong performance while maintaining **model interpretability**.
+
+**Links**
+
+* 📓 Kaggle Notebook
+* 📊 Analysis
+
+---
+
+# 🧰 Skills & Proof
+
+### 📊 Data Science
+
+Tools
+
+* Python
+* SBERT
+* PyTorch
+* Scikit-learn
+
+Proof
+
+* 10+ Kaggle Certifications
+
+---
+
+### 🗄 Data Engineering
+
+Tools
+
+* Advanced SQL
+* Python
+* Pandas
+
+Proof
+
+* Advanced SQL Kaggle Certification
+
+---
+
+### 🌐 Web Systems
+
+Tools
+
+* React
+* TailwindCSS
+* Django
+* Django Knox
+
+Proof
+
+* FoodBridge Project Repository
+
+---
+
+### ☁️ Cloud & MLOps
+
+Tools
+
+* Hugging Face Hub
+* Streamlit
+
+Proof
+
+* `iwamu/bert-data-analyst-matcher`
+
+---
+
+# 🔬 Current Specialization
+
+I am currently expanding my expertise into **Computer Vision**, focusing on:
+
+* Convolutional Neural Networks (CNNs)
+* Object Detection
+* Vision-based ML pipelines
+
+My goal is to **integrate visual data into existing ML systems** to build more robust AI solutions.
+
+---
+
+# 📫 Contact
+
+📧 Email: **[ngatiahivy@gmail.com](mailto:ngatiahivy@gmail.com)**
+📍 Location: **Nairobi, Kenya**
+💼 LinkedIn: *(add link)*
+
+---
+
+⭐ If you find my work interesting, feel free to explore my repositories!
+
+---
+
+If you want, I can also show you **3 ways to make your GitHub portfolio look 10× more impressive than most developers' profiles** (badges, animated stats, and project cards).
