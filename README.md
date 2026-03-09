@@ -164,6 +164,8 @@ My goal is to **integrate visual data into existing ML systems** to build more r
 
 📍 Location: **Nairobi, Kenya**
 
+💼 LinkedIn: [Ivy Ngatia](https://www.linkedin.com/in/ivie-ngatiah-58a53a26b)
+
 ---
 
 ⭐ If you find my work interesting, feel free to explore my repositories!
