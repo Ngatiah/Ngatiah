@@ -6,6 +6,7 @@ Building **transparent Machine Learning systems** and **scalable web application
 Currently specializing in **Computer Vision** and **Transformer models**.
 
 📍 Nairobi, Kenya
+
 📧 [ngatiahivy@gmail.com](mailto:ngatiahivy@gmail.com)
 
 ---
