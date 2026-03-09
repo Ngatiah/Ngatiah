@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ivy Wamuyu Ngatia
 
-### Aspiring AI Engineer | Machine Learning & Full-Stack Developer
+### Computer Science @ Moi University | AI & Data Science Researcher
 
 Building **transparent Machine Learning systems** and **scalable web applications**.  
 Currently specializing in **Computer Vision** and **Transformer models**.
