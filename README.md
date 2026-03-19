@@ -5,7 +5,7 @@
 Building **transparent Machine Learning systems** and **scalable web applications**.  
 Currently specializing in **Computer Vision** and **Transformer models**.
 
-📍 Nairobi, Kenya | 📧 [ngatiahivy@gmail.com](mailto:ngatiahivy@gmail.com) | 💼 [LinkedIn](https://www.linkedin.com/in/ivie-ngatiah-58a53a26b)
+📍 Nairobi, Kenya | 💼 [LinkedIn](https://www.linkedin.com/in/ivie-ngatiah-58a53a26b)
 
 ---
 
@@ -49,7 +49,7 @@ Currently specializing in **Computer Vision** and **Transformer models**.
 | :--- | :--- |
 | **AI & ML** | Python, SBERT, PyTorch, Scikit-learn, Computer Vision (CNNs) |
 | **Data Engineering** | Advanced SQL (Window Functions), Pandas, NumPy |
-| **Full-Stack** | React, Vite, TailwindCSS, Django, Django Knox |
+| **Full-Stack** | React, Vite, TailwindCSS, Django |
 | **DevOps/MLOps** | Hugging Face Hub, Streamlit, Git, Firebase |
 
 ---
