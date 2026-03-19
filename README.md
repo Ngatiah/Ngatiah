@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Ivy Wamuyu Ngatia
+# 👋 Hi, I'm Ivy Ngatia
 
 ### Software Engineer & AI Enthusiast | Transforming Data into Insights
 
