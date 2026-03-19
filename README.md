@@ -51,14 +51,6 @@ Currently specializing in **Computer Vision** and **Transformer models**.
 | **Data Engineering** | Advanced SQL (Window Functions), Pandas, NumPy |
 | **Full-Stack** | React, Vite, TailwindCSS, Django |
 | **DevOps/MLOps** | Hugging Face Hub, Streamlit, Git, Firebase |
-
----
-
-## 🔬 Current Specialization
-I am currently expanding my expertise into **Computer Vision**, focusing on:
-* Convolutional Neural Networks (CNNs) & Object Detection.
-* Integrating visual data into existing ML pipelines for more robust AI solutions.
-
 ---
 
 ⭐ If you find my work interesting, feel free to explore my repositories or reach out for collaboration!
