@@ -37,12 +37,6 @@ Currently specializing in **Computer Vision** and **Transformer models**.
 
 ---
 
-###  [Titanic Survival Prediction](https://github.com/Ngatiah/Titanic-Survival-Prediction.git)
-* **Goal:** Mastered classification via feature engineering and **XGBoost**.
-* **Focus:** Achieving high accuracy while maintaining model interpretability.
-
----
-
 ## 🧰 Technical Toolbox
 
 | Category | Tools & Technologies |
