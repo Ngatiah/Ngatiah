@@ -24,8 +24,7 @@ Currently specializing in **Computer Vision** and **Transformer models**.
 **Solution:** Built a **three-tiered SBERT matching system** that ranks resumes and provides transparency through automated skill-gap analysis.
 
 * **Stack:** SBERT, PyTorch, Scikit-learn, Streamlit.
-* **Links:** [Live Demo](https://resumejd-75ykods9j2snaxgh5jss88.streamlit.app/) | [GitHub](https://github.com/Ngatiah/resume_JD.git) | [Model Hub](https://huggingface.io/iwamu/bert-data-analyst-matcher)
-
+* **Links:** [Live Demo](https://resumejd-75ykods9j2snaxgh5jss88.streamlit.app/) | [GitHub](https://github.com/Ngatiah/resume_JD.git) 
 ---
 
 ###  [FoodBridge](https://github.com/Ngatiah/Donation-System.git)
