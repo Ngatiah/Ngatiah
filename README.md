@@ -38,6 +38,7 @@ Currently specializing in **Computer Vision** and **Transformer models**.
 
 ###  [Task Management System](https://github.com/Ngatiah/Task-Management-System.git)
 **Problem:** Functional task management (to-do) application** where users can add, edit, delete and prioritize tasks.
+
 **Solution:** Task Management System offering a comprehensive set of features to keep you organized incorporating secure login via Google,Facebook and Email/Password using Firebase Auth.
 
 * **Links:** [GitHub Repository](https://github.com/Ngatiah/Task-Management-System.git)
