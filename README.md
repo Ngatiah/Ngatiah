@@ -11,7 +11,7 @@ Currently specializing in **Computer Vision** and **Transformer models**.
 
 ## 🚀 Quick Links
 
-* 📄 **Resume:** [Download PDF](https://github.com/Ngatiah/resume.git)
+* 📄 **Resume:** [Download PDF](https://github.com/Ngatiah/resume/blob/main/Ngatia_Ivy_CV.pdf)
 * 📜 **Certifications:** [10+ Kaggle Certificates](https://drive.google.com/drive/folders/1rWwjPnDZzTycxissJ-XGXSuwi-aDYVkk?usp=drive_link)
 * 🤗 **Models:** https://huggingface.co/iwamu/bert-data-analyst-matcher
 
