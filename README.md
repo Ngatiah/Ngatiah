@@ -1,4 +1,4 @@
-need help restructuring my github profile readme : # 👋 Hi, I'm Ivy Ngatia
+# 👋 Hi, I'm Ivy Ngatia
 
 ### Software Engineer & AI Enthusiast 
 
