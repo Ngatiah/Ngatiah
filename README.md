@@ -1,58 +1,83 @@
+<!-- ======================= HERO ======================= -->
+
 <div align="center">
 
-# 👋 Hi, I'm Ivy Ngatia
-
-### **Software Engineer · AI/ML · Computer Vision**
-
-**I build intelligent systems that turn data into useful decisions.**
-
-Exploring the intersection of **Machine Learning, Transformers, Computer Vision, and software engineering** — with a particular interest in building AI systems that are not only powerful, but understandable.
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&text=IVY%20NGATIA&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=SOFTWARE%20%7C%20AI%20%7C%20DATA&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
 <br>
 
 <a href="https://github.com/Ngatiah">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GITHUB-111111?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+&nbsp;
 <a href="https://huggingface.co/iwamu">
-  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black" />
+<img src="https://img.shields.io/badge/HUGGING%20FACE-111111?style=for-the-badge&logo=huggingface&logoColor=FFD21F"/>
 </a>
+&nbsp;
 <a href="https://resumejd-75ykods9j2snaxgh5jss88.streamlit.app/">
-  <img src="https://img.shields.io/badge/Live%20AI%20Project-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+<img src="https://img.shields.io/badge/LIVE%20PROJECT-111111?style=for-the-badge&logo=streamlit&logoColor=FF4B4B"/>
 </a>
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=6E56CF&center=true&vCenter=true&width=700&lines=Building+AI+systems+with+purpose.;Exploring+Transformers+%26+Computer+Vision.;Turning+data+into+intelligent+solutions.;Learning%2C+building%2C+iterating." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&pause=1200&center=true&vCenter=true&width=720&height=45&lines=I+build+software+that+solves+real+problems.;Exploring+AI%2C+Transformers+%26+Computer+Vision.;Turning+data+into+intelligent+systems.;Building.+Breaking.+Learning.+Repeating." />
 
 </div>
 
+<br>
+
 ---
 
-## 🧭 What I Build
+# `01` — WHO I AM
 
 <table>
 <tr>
-<td width="33%" align="center">
+<td width="58%" valign="top">
 
-### 🧠 AI & ML
+### Hi, I'm Ivy 👋
 
-Machine learning systems focused on **language, representation learning and explainability**.
+I'm a **Computer Science student and software developer** interested in the space where **software engineering, data and artificial intelligence** meet.
+
+I like taking an idea from:
+
+`problem` → `data` → `model` → `software` → `something people can actually use`
+
+My current interests are:
+
+* 🧠 **Machine Learning & Explainable AI**
+* 🔤 **Transformers & NLP**
+* 👁️ **Computer Vision**
+* 📊 **Data Engineering & Analytics**
+* 💻 **Full-Stack Software Development**
+
+I'm especially interested in building AI systems where the output isn't just *"here's the prediction"* — but also **"here's why."**
 
 </td>
 
-<td width="33%" align="center">
+<td width="42%" valign="top">
 
-### 👁️ Computer Vision
+### `CURRENTLY`
 
-Exploring models that enable machines to **understand visual information**.
+```text
+ROLE
+Computer Science
+Student / Developer
 
-</td>
+FOCUS
+AI + Software
 
-<td width="33%" align="center">
+EXPLORING
+Computer Vision
+Transformers
+XAI
 
-### 💻 Software
+BUILDING
+Intelligent systems
+& useful software
 
-Building **scalable applications** that turn technical ideas into usable products.
+BASED IN
+Nairobi, Kenya
+```
 
 </td>
 </tr>
@@ -60,193 +85,348 @@ Building **scalable applications** that turn technical ideas into usable product
 
 ---
 
-## 🚀 Featured Work
-
-### 🧠 Explainable AI Resume Matcher
-
-> **Making AI-assisted recruitment more transparent.**
-
-Traditional matching systems can tell you *who* matches a job without clearly explaining *why*.
-
-I built a **three-tiered SBERT-based matching system** that compares resumes against job descriptions and goes beyond a similarity score by providing **automated skill-gap analysis**.
-
-**What it demonstrates**
-
-* Transformer-based semantic similarity
-* SBERT embeddings
-* Multi-level candidate matching
-* Automated skill-gap analysis
-* Explainable AI principles
-* Interactive ML deployment
-
-**Stack**
-
-`SBERT` `PyTorch` `Scikit-learn` `Python` `Streamlit`
+# `02` — WHAT I BUILD
 
 <div align="center">
+
+<table>
+<tr>
+
+<td width="33%" align="center">
+
+## 🧠
+
+### INTELLIGENT SYSTEMS
+
+Machine learning systems that work with **language, data and representations**.
+
+`SBERT`
+`Transformers`
+`Scikit-learn`
+
+</td>
+
+<td width="33%" align="center">
+
+## 👁️
+
+### COMPUTER VISION
+
+Exploring how machines can **interpret and learn from visual information**.
+
+`CNNs`
+`PyTorch`
+`TensorFlow`
+
+</td>
+
+<td width="33%" align="center">
+
+## ⚙️
+
+### SOFTWARE
+
+Turning technical ideas into **usable, maintainable applications**.
+
+`React`
+`Django`
+`Laravel`
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+---
+
+# `03` — SELECTED WORK
+
+> A few projects that represent what I like building.
+
+<br>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🧠 Explainable AI
+
+## Resume Job Matcher
+
+**AI-powered semantic matching with an explanation layer.**
+
+Instead of returning a single similarity score, the system uses a **three-tier SBERT architecture** to compare resumes with job descriptions and identify **skill gaps**.
+
+**The interesting part:**
+making semantic matching more understandable.
+
+<br>
+
+**BUILT WITH**
+
+`Python` `SBERT` `PyTorch`
+`Scikit-learn` `Streamlit`
+
+<br>
 
 <a href="https://resumejd-75ykods9j2snaxgh5jss88.streamlit.app/">
-<img src="https://img.shields.io/badge/▶%20Try%20the%20Live%20Demo-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+▶ LIVE DEMO
 </a>
+
+  •  
 
 <a href="https://github.com/Ngatiah/resume_JD">
-<img src="https://img.shields.io/badge/View%20Source-181717?style=for-the-badge&logo=github&logoColor=white"/>
+SOURCE CODE
 </a>
 
-</div>
+</td>
 
----
+<td width="50%" valign="top">
 
-### 🍲 FoodBridge
+### 🍲 Full-Stack
 
-> **Technology for connecting surplus food with communities that need it.**
+## FoodBridge
 
-FoodBridge is a full-stack food redistribution platform designed to connect **businesses and charitable organizations**, addressing the gap between available surplus food and organizations able to redistribute it.
+**A platform designed to connect surplus food with organizations that can redistribute it.**
 
-**What it demonstrates**
+FoodBridge explores how software can coordinate the movement of resources between **businesses and charitable organizations**.
 
-* REST API development
+<br>
+
+**THE ENGINEERING**
+
+* Decoupled architecture
+* REST APIs
 * Secure authentication
-* Decoupled frontend/backend architecture
-* Responsive UI development
-* Full-stack application design
+* Responsive frontend
+* Backend/frontend integration
 
-**Stack**
+<br>
 
-`Django` `React` `Tailwind CSS` `Django Knox`
+**BUILT WITH**
 
-<div align="center">
+`Django` `React` `Tailwind`
+`Django Knox`
+
+<br>
 
 <a href="https://github.com/Ngatiah/Donation-System">
-<img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
+VIEW PROJECT →
 </a>
 
-</div>
+</td>
+</tr>
+</table>
 
----
+<br>
 
-### ✅ Task Management System
+<table>
+<tr>
 
-> **A practical full-stack application focused on productivity and secure authentication.**
+<td width="50%" valign="top">
 
-A task management platform supporting task creation, editing, deletion and prioritization, with multiple authentication methods through Firebase.
+### ✅ Application Development
 
-**Highlights**
+## Task Management System
 
-* Task CRUD operations
-* Task prioritization
-* Google authentication
-* Facebook authentication
-* Email/password authentication
-* Firebase integration
+A productivity application built around task **creation, editing, deletion and prioritization**.
 
-**Stack**
+Includes multiple authentication methods through Firebase.
 
 `React` `Firebase` `JavaScript`
 
-<div align="center">
+<br>
 
 <a href="https://github.com/Ngatiah/Task-Management-System">
-<img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
+VIEW PROJECT →
 </a>
 
-</div>
+</td>
 
----
+<td width="50%" valign="top">
 
-## 🔬 AI / ML Lab
+### 🤗 Model Experiments
 
-I'm particularly interested in the questions behind intelligent systems:
+## Hugging Face
 
-<table>
-<tr>
-<td>
+Experimenting with transformer-based models and semantic matching.
 
-**🤖 Transformers**
+**Current model**
 
-Exploring transformer architectures and semantic representation learning.
+`bert-data-analyst-matcher`
+
+<br>
+
+<a href="https://huggingface.co/iwamu/bert-data-analyst-matcher">
+VIEW MODEL →
+</a>
 
 </td>
-<td>
 
-**🔎 Explainability**
-
-Understanding *why* models make predictions rather than treating them as black boxes.
-
-</td>
-</tr>
-
-<tr>
-<td>
-
-**👁️ Computer Vision**
-
-Currently expanding into visual representation learning and CNN-based systems.
-
-</td>
-<td>
-
-**📊 Data**
-
-Working with data pipelines, feature engineering, analysis and predictive modelling.
-
-</td>
 </tr>
 </table>
 
 ---
 
-## 🛠️ My Toolkit
+# `04` — THE AI SIDE
 
-### AI / Machine Learning
+<table>
+<tr>
+<td width="25%" align="center">
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn" />
-</p>
+### 01
 
-`SBERT` · `Transformers` · `Scikit-learn` · `XGBoost` · `Pandas` · `NumPy`
+**REPRESENTATION**
 
-### Full-Stack Development
+How can machines turn language and images into useful representations?
 
-<p>
-<img src="https://skillicons.dev/icons?i=react,vite,tailwind,django,laravel,php,js" />
-</p>
+</td>
 
-### Data & Engineering
+<td width="25%" align="center">
 
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,postgres,git,github,linux,vscode,firebase" />
-</p>
+### 02
+
+**PREDICTION**
+
+How can those representations be used to make useful decisions?
+
+</td>
+
+<td width="25%" align="center">
+
+### 03
+
+**EXPLANATION**
+
+Can we understand what influenced the model's output?
+
+</td>
+
+<td width="25%" align="center">
+
+### 04
+
+**APPLICATION**
+
+Can the model become something people can actually use?
+
+</td>
+</tr>
+</table>
+
+<br>
+
+```text
+                    MY INTEREST
+
+        ┌─────────────────────────────┐
+        │          DATA               │
+        └─────────────┬───────────────┘
+                      ↓
+        ┌─────────────────────────────┐
+        │       REPRESENTATION        │
+        │   Transformers / Vision     │
+        └─────────────┬───────────────┘
+                      ↓
+        ┌─────────────────────────────┐
+        │          MODEL              │
+        │      Learn / Predict        │
+        └─────────────┬───────────────┘
+                      ↓
+        ┌─────────────────────────────┐
+        │       EXPLANATION           │
+        │       Why this output?      │
+        └─────────────┬───────────────┘
+                      ↓
+        ┌─────────────────────────────┐
+        │         SOFTWARE            │
+        │       Make it useful        │
+        └─────────────────────────────┘
+```
 
 ---
 
-## 🤗 Models & Experiments
+# `05` — TECH STACK
 
-I also experiment with models through the Hugging Face ecosystem.
+<details>
+<summary><b>🧠 AI / MACHINE LEARNING</b></summary>
 
-### `bert-data-analyst-matcher`
+<br>
 
-A transformer-based model experiment focused on semantic matching for data-oriented roles.
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn" />
+
+<br><br>
+
+`SBERT` · `Transformers` · `Scikit-learn` · `XGBoost`
+`Pandas` · `NumPy` · `Keras`
+
+</details>
+
+<br>
+
+<details>
+<summary><b>💻 SOFTWARE ENGINEERING</b></summary>
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=react,vite,django,laravel,php,js,tailwind" />
+
+<br><br>
+
+`React` · `Vite` · `Django` · `Laravel`
+`PHP` · `JavaScript` · `Tailwind CSS`
+
+</details>
+
+<br>
+
+<details>
+<summary><b>📊 DATA & TOOLS</b></summary>
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres,git,github,firebase,linux,vscode" />
+
+<br><br>
+
+`SQL` · `Pandas` · `NumPy` · `Git`
+`GitHub` · `Firebase` · `Jupyter` · `Streamlit`
+
+</details>
+
+---
+
+# `06` — CURRENTLY EXPLORING
 
 <div align="center">
 
-<a href="https://huggingface.co/iwamu/bert-data-analyst-matcher">
-<img src="https://img.shields.io/badge/🤗%20View%20on%20Hugging%20Face-FFD21F?style=for-the-badge&logoColor=black"/>
-</a>
+| AREA | DIRECTION              |
+| :--: | :--------------------- |
+|  👁️ | **Computer Vision**    |
+|  🤖  | **Transformer Models** |
+|  🔎  | **Explainable AI**     |
+|  📊  | **Data Engineering**   |
+|  ⚙️  | **Scalable Software**  |
 
 </div>
 
+<br>
+
+> I'm less interested in simply collecting technologies and more interested in understanding **how they fit together to solve a problem.**
+
 ---
 
-## 📈 GitHub Activity
+# `07` — GITHUB
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Ngatiah&show_icons=true&hide_border=true&rank_icon=github" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Ngatiah&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true" height="165"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ngatiah&layout=compact&hide_border=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ngatiah&layout=compact&hide_border=true&langs_count=8" height="165"/>
 
-<br>
+<br><br>
 
 <img src="https://streak-stats.demolab.com?user=Ngatiah&hide_border=true" />
 
@@ -254,78 +434,81 @@ A transformer-based model experiment focused on semantic matching for data-orien
 
 ---
 
-## 🧩 How I Think About Technology
+# `08` — A LITTLE MORE
+
+<details>
+<summary><b>💡 WHAT I'M INTERESTED IN</b></summary>
+
+<br>
+
+**Artificial Intelligence**
+Building systems that can learn, reason over information and assist decision-making.
+
+**Explainability**
+Making machine learning systems easier to understand and trust.
+
+**Computer Vision**
+Exploring how machines can extract meaningful information from visual data.
+
+**Software Engineering**
+Building applications where the engineering matters just as much as the idea.
+
+**Data**
+Finding the signal hidden inside messy, real-world information.
+
+</details>
+
+<br>
+
+<details>
+<summary><b>🔭 WHAT I'M WORKING TOWARD</b></summary>
+
+<br>
+
+Becoming the kind of engineer who can move comfortably across the entire journey:
 
 ```text
-             DATA
-               │
-               ▼
-        ┌──────────────┐
-        │   INSIGHT    │
-        └──────┬───────┘
-               │
-               ▼
-        ┌──────────────┐
-        │ INTELLIGENCE │
-        └──────┬───────┘
-               │
-               ▼
-        ┌──────────────┐
-        │   SOFTWARE   │
-        └──────┬───────┘
-               │
-               ▼
-          REAL IMPACT
+Problem
+   ↓
+Data
+   ↓
+Experiment
+   ↓
+Model
+   ↓
+Evaluation
+   ↓
+Application
+   ↓
+Impact
 ```
 
-I enjoy working where **data, intelligence and software meet**.
-
-The goal isn't simply to build something that works.
-
-It's to understand **why it works, make it useful, and keep improving it.**
+</details>
 
 ---
 
-## 🌱 Currently Exploring
-
-```text
-Computer Vision
-      +
-Transformer Models
-      +
-Explainable AI
-      +
-Data Engineering
-      +
-Scalable Software
-```
-
-Always learning. Always building. Always iterating.
-
----
-
-## 📌 Beyond the Code
-
-I'm interested in technology that solves **real problems**, particularly where software and AI can improve how people interact with information, services and opportunities.
-
-That means I'm just as interested in the **problem behind the model** as I am in the model itself.
-
----
+# `09` — LET'S CONNECT
 
 <div align="center">
 
-### Let's build something meaningful.
+### Have an interesting problem?
+
+### I'd love to build something around it.
+
+<br>
 
 <a href="https://github.com/Ngatiah">
-<img src="https://img.shields.io/badge/GitHub-Explore%20my%20work-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GITHUB-111111?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
+ 
+
 <a href="https://huggingface.co/iwamu">
-<img src="https://img.shields.io/badge/Hugging%20Face-My%20Models-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black"/>
+<img src="https://img.shields.io/badge/HUGGING%20FACE-111111?style=for-the-badge&logo=huggingface&logoColor=FFD21F"/>
 </a>
 
 <br><br>
 
-<sub>Built with curiosity · powered by code · driven by impact</sub>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient"/>
 
 </div>
