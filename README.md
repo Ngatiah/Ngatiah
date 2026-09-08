@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ivy Ngatia
 
-### Software Engineer & AI Enthusiast | Transforming Data into Insights
+### Software Engineer & AI Enthusiast 
 
 Building **transparent Machine Learning systems** and **scalable web applications**.  
 Currently specializing in **Computer Vision** and **Transformer models**.
