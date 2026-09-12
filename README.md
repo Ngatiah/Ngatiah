@@ -1,66 +1,59 @@
-# 👋 Hi, I'm Ivy Ngatia  
+# 👋 Hi, I'm Ivy Ngatia
 
-### 💻 Software Engineer • 🤖 AI Enthusiast • 🌍 Tech Explorer  
+### Software Engineer & AI Enthusiast 
 
-I build **transparent Machine Learning systems** and **scalable web apps** with a focus on **Computer Vision** and **Transformer models**.  
-Passionate about making AI **explainable, ethical, and human-centered**.  
+Building **transparent Machine Learning systems** and **scalable web applications**.  
+Currently specializing in **Computer Vision** and **Transformer models**.
 
----
-
-## 🌟 Highlights  
-
-- 🔬 Exploring **Explainable AI** for hiring transparency  
-- 🍲 Tackling **food waste** with tech-driven redistribution  
-- ✅ Designing **task management tools** with secure authentication  
-- 🎯 Goal: Empower communities through **trustworthy AI solutions**  
+📍 Nairobi, Kenya
 
 ---
 
-## 🚀 Featured Projects  
+## 🚀 Quick Links
 
-### 🧠 [XAI Resume Job Matcher](https://resumejd-75ykods9j2snaxgh5jss88.streamlit.app/)  
-Transparent hiring tool using **SBERT** with skill-gap analysis.  
-🔗 [Live Demo](https://resumejd-75ykods9j2snaxgh5jss88.streamlit.app/) | [GitHub](https://github.com/Ngatiah/resume_JD.git)  
-
----
-
-### 🍲 [FoodBridge](https://github.com/Ngatiah/Donation-System.git)  
-Redistribution platform tackling **urban food waste**.  
-🔗 [GitHub Repository](https://github.com/Ngatiah/Donation-System.git)  
+* 📄 **Resume:** [Download PDF](https://github.com/Ngatiah/resume/blob/main/Ngatia_Ivy_CV.pdf)
+* 📜 **Certifications:** 10+ Kaggle Certificates
+* 🤗 **Models:** https://huggingface.co/iwamu/bert-data-analyst-matcher
 
 ---
 
-### ✅ [Task Management System](https://github.com/Ngatiah/Task-Management-System.git)  
-Firebase-authenticated task manager with social logins.  
-🔗 [GitHub Repository](https://github.com/Ngatiah/Task-Management-System.git)  
+## 🔥 Featured Projects
+
+###  [Explainable AI (XAI) Resume Job Matcher](https://resumejd-75ykods9j2snaxgh5jss88.streamlit.app/)
+**Problem:** Most AI hiring tools act as "black boxes," leaving recruiters unsure why a candidate was recommended.  
+**Solution:** Built a **three-tiered SBERT matching system** that ranks resumes and provides transparency through automated skill-gap analysis.
+
+* **Stack:** SBERT, PyTorch, Scikit-learn, Streamlit.
+* **Links:** [Live Demo](https://resumejd-75ykods9j2snaxgh5jss88.streamlit.app/) | [GitHub](https://github.com/Ngatiah/resume_JD.git) 
+---
+
+###  [FoodBridge](https://github.com/Ngatiah/Donation-System.git)
+**Problem:** Urban food waste due to inefficient redistribution logistics.  
+**Solution:** A secure redistribution platform connecting businesses with charities using a decoupled architecture.
+
+* **Highlights:** Implemented **Django Knox** for secure authentication and a responsive **React + Tailwind** UI.
+* **Links:** [GitHub Repository](https://github.com/Ngatiah/Donation-System.git)
 
 ---
 
-## 🧰 Toolbox  
+###  [Task Management System](https://github.com/Ngatiah/Task-Management-System.git)
+**Problem:** Functional task management (to-do) application where users can add, edit, delete and prioritize tasks.
 
-| **Category** | **Tools** |
-|--------------|-----------|
-| 🤖 AI & ML | Python, SBERT, PyTorch, Scikit-learn, CNNs |
-| 📊 Data Engineering | SQL (Window Functions), Pandas, NumPy |
-| 🌐 Full-Stack | React, Vite, TailwindCSS, Django |
-| ⚙️ DevOps/MLOps | Hugging Face Hub, Streamlit, Git, Firebase |
+**Solution:** Task Management System offering a comprehensive set of features to keep you organized incorporating secure login via Google,Facebook and Email/Password using Firebase Auth.
+
+* **Links:** [GitHub Repository](https://github.com/Ngatiah/Task-Management-System.git)
 
 ---
 
-## 📈 GitHub Stats  
 
-![Ivy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ngatiah&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ngatiah&layout=compact&theme=radical)  
+## 🧰 Technical Toolbox
 
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **AI & ML** | Python, SBERT, PyTorch, Scikit-learn, Computer Vision (CNNs) |
+| **Data Engineering** | Advanced SQL (Window Functions), Pandas, NumPy |
+| **Full-Stack** | React, Vite, TailwindCSS, Django |
+| **DevOps/MLOps** | Hugging Face Hub, Streamlit, Git, Firebase |
 ---
 
-## 🎨 Visual Flair  
-
-![AI Enthusiast](https://img.shields.io/badge/AI%20Enthusiast-%F0%9F%A4%96-blue?style=for-the-badge)  
-![Made with Python](https://img.shields.io/badge/Made%20with-Python-yellow?style=for-the-badge&logo=python)  
-![Deployed on Streamlit](https://img.shields.io/badge/Deployed%20on-Streamlit-green?style=for-the-badge&logo=streamlit)  
-![Open for Collaboration](https://img.shields.io/badge/Open%20for-Collaboration-pink?style=for-the-badge)  
-
----
-
-⭐ If you enjoy my work, explore my repos or connect for collaboration!  
+⭐ If you find my work interesting, feel free to explore my repositories or reach out for collaboration!
