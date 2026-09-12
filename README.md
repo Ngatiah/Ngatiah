@@ -11,7 +11,7 @@ Currently specializing in **Computer Vision** and **Transformer models**.
 
 ## 🚀 Quick Links
 
-* 📄 **Resume:** [Download PDF](https://github.com/Ngatiah/resume/blob/main/NgatiaIvy_Resume_SOFTWARE-ENGINEER.pdf)
+* 📄 **Resume:** [Download PDF](https://github.com/Ngatiah/resume/blob/main/NgatiaIvy_Resume_SOFTWARE-ENGINEER_compressed.pdf)
 * 📜 **Certifications:** 10+ Kaggle Certificates
 * 🤗 **Models:** https://huggingface.co/iwamu/bert-data-analyst-matcher
 
