@@ -1,127 +1,60 @@
 # 👋 Hi, I'm Ivy Ngatia
 
-### Computer Science | Software Development | AI & Data
+### Software Engineer & AI Enthusiast 
 
-I build **practical software and AI-powered applications** focused on solving real-world problems.
-
-My work spans **full-stack development, machine learning, NLP, data, and enterprise technology**. I enjoy taking an idea, understanding the problem behind it, and turning it into something people can actually use.
+Building **transparent Machine Learning systems** and **scalable web applications**.  
+Currently specializing in **Computer Vision** and **Transformer models**.
 
 📍 Nairobi, Kenya
 
 ---
 
-## 🔎 What I'm Working With
+## 🚀 Quick Links
 
-**Software Development**
-Python • Django • PHP/Laravel • React • SQL • MySQL
-
-**AI & Machine Learning**
-NLP • SBERT • PyTorch • Scikit-learn • TensorFlow/Keras • Machine Learning
-
-**Data**
-Pandas • NumPy • SQL • Data Processing • Feature Engineering
-
-**Tools & Platforms**
-Git • GitHub • Streamlit • Hugging Face • Firebase
+* 📄 **Resume:** [Download PDF](https://github.com/Ngatiah/resume/blob/main/NgatiaIvy_Resume_SOFTWARE-ENGINEER_compressed.pdf)
+* 📜 **Certifications:** [10+ Kaggle Certificates](https://drive.google.com/drive/folders/1O5SPz5kuKlzuWV5OSWBgP1oTukf24ZIi?usp=sharing)
+* 🤗 **Models:** https://huggingface.co/iwamu/bert-data-analyst-matcher
 
 ---
 
-## 🚀 Featured Projects
+## 🔥 Featured Projects
 
-### 🤖 [Explainable AI Resume–Job Matcher](https://resumejd-75ykods9j2snaxgh5jss88.streamlit.app/)
+###  [Explainable AI (XAI) Resume Job Matcher](https://resumejd-75ykods9j2snaxgh5jss88.streamlit.app/)
+**Problem:** Most AI hiring tools act as "black boxes," leaving recruiters unsure why a candidate was recommended.  
+**Solution:** Built a **three-tiered SBERT matching system** that ranks resumes and provides transparency through automated skill-gap analysis.
 
-An AI-powered application that compares resumes with job descriptions using **semantic similarity rather than relying only on keyword matching**.
+* **Stack:** SBERT, PyTorch, Scikit-learn, Streamlit.
+* **Links:** [Live Demo](https://resumejd-75ykods9j2snaxgh5jss88.streamlit.app/) | [GitHub](https://github.com/Ngatiah/resume_JD.git) 
+---
 
-The system uses a three-tier SBERT approach to assess candidate-job alignment and provides **skill matching and skill-gap analysis** to make the results easier to understand.
+###  [FoodBridge](https://github.com/Ngatiah/Donation-System.git)
+**Problem:** Urban food waste due to inefficient redistribution logistics.  
+**Solution:** A secure redistribution platform connecting businesses with charities using a decoupled architecture.
 
-**Built with:** SBERT • PyTorch • Scikit-learn • Streamlit
-
-**[Live Demo](https://resumejd-75ykods9j2snaxgh5jss88.streamlit.app/) | [Repository](https://github.com/Ngatiah/resume_JD)**
+* **Highlights:** Implemented **Django Knox** for secure authentication and a responsive **React + Tailwind** UI.
+* **Links:** [GitHub Repository](https://github.com/Ngatiah/Donation-System.git)
 
 ---
 
-### 🍱 [FoodBridge](https://github.com/Ngatiah/Donation-System)
+###  [Task Management System](https://github.com/Ngatiah/Task-Management-System.git)
+**Problem:** Functional task management (to-do) application where users can add, edit, delete and prioritize tasks.
 
-An AI-assisted food redistribution platform designed to connect **food donors with people and organizations in need**.
+**Solution:** Task Management System offering a comprehensive set of features to keep you organized incorporating secure login via Google,Facebook and Email/Password using Firebase Auth.
 
-The recommendation component uses AI to help identify suitable matches between available donations and recipients, while the platform provides a secure system for managing the redistribution process.
-
-**Highlights:**
-
-* AI-assisted donor-to-recipient recommendations
-* Secure authentication with Django Knox
-* Decoupled backend and frontend architecture
-* Responsive React + Tailwind interface
-
-**Built with:** Django • React • Tailwind CSS • AI/ML • Django Knox
-
-**[Repository](https://github.com/Ngatiah/Donation-System)**
+* **Links:** [GitHub Repository](https://github.com/Ngatiah/Task-Management-System.git)
 
 ---
 
-### 📋 [Task Management System](https://github.com/Ngatiah/Task-Management-System)
 
-A task management application designed to help users organize, prioritize, and manage their daily tasks.
+## 🧰 Technical Toolbox
 
-Includes task creation, editing, deletion, prioritization, and authentication through **Google, Facebook, and Email/Password** using Firebase Authentication.
-
-**Built with:** React • Firebase • JavaScript
-
-**[Repository](https://github.com/Ngatiah/Task-Management-System)**
-
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **AI & ML** | Python, SBERT, PyTorch, Scikit-learn, Computer Vision (CNNs) |
+| **Data Engineering** | Advanced SQL (Window Functions), Pandas, NumPy |
+| **Full-Stack** | React, Vite, TailwindCSS, Django |
+| **DevOps/MLOps** | Hugging Face Hub, Streamlit, Git, Firebase |
 ---
 
-## 🧠 Currently Learning
-
-I'm continuously building my understanding of:
-
-* Machine Learning and NLP
-* Transformer-based models
-* Explainable AI
-* Computer Vision
-* Full-stack application development
-* Data-driven applications
-
-I learn best by **building projects, experimenting with different approaches, and understanding why something works — not just getting it to work.**
-
----
-
-## 📚 Learning & Certifications
-
-I've completed **10+ Kaggle courses/certifications** covering areas including:
-
-* Machine Learning
-* Deep Learning
-* Data Cleaning
-* Feature Engineering
-* SQL
-* Data Visualization
-* Time Series
-* Geospatial Analysis
-
-📜 [View Certifications](https://drive.google.com/drive/folders/1O5SPz5kuKlzuWV5OSWBgP1oTukf24ZIi?usp=sharing)
-
----
-
-## 🤗 Models & AI Work
-
-**Hugging Face:**
-[bert-data-analyst-matcher](https://huggingface.co/iwamu/bert-data-analyst-matcher)
-
----
-
-## 📄 Resume
-
-[View my Resume](https://github.com/Ngatiah/resume/blob/main/NgatiaIvy_Resume_SOFTWARE-ENGINEER_compressed.pdf)
-
----
-
-## 🌱 A Little About Me
-
-I'm naturally curious and tend to learn by figuring things out. I enjoy working on problems where there isn't an obvious answer, exploring different approaches, and gradually turning an idea into something practical.
-
-I'm interested in opportunities where I can **build, learn, contribute, and keep growing** across software engineering, AI, data, and technology.
-
----
-
-⭐ Thanks for stopping by. Feel free to explore my repositories and projects.
+⭐ If you find my work interesting, feel free to explore my repositories or reach out for collaboration!
+the foodbridge project is matches the donor to those in need using AI for the recommendations
