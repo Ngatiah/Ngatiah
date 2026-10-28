@@ -27,13 +27,6 @@ Currently specializing in **Computer Vision** and **Transformer models**.
 * **Links:** [Live Demo](https://resumejd-75ykods9j2snaxgh5jss88.streamlit.app/) | [GitHub](https://github.com/Ngatiah/resume_JD.git) 
 ---
 
-###  [FoodBridge](https://github.com/Ngatiah/Donation-System.git)
-**Problem:** Urban food waste due to inefficient redistribution logistics.  
-**Solution:** A secure redistribution platform connecting businesses with charities using a decoupled architecture.
-
-* **Highlights:** Implemented **Django Knox** for secure authentication and a responsive **React + Tailwind** UI.
-* **Links:** [GitHub Repository](https://github.com/Ngatiah/Donation-System.git)
-
 ---
 
 ###  [Task Management System](https://github.com/Ngatiah/Task-Management-System.git)
