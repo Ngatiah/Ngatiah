@@ -27,8 +27,6 @@ Currently specializing in **Computer Vision** and **Transformer models**.
 * **Links:** [Live Demo](https://resumejd-75ykods9j2snaxgh5jss88.streamlit.app/) | [GitHub](https://github.com/Ngatiah/resume_JD.git) 
 ---
 
----
-
 ###  [Task Management System](https://github.com/Ngatiah/Task-Management-System.git)
 **Problem:** Functional task management (to-do) application where users can add, edit, delete and prioritize tasks.
 
